@@ -1,0 +1,20 @@
+{
+  "name": "vscode-evm-package",
+  "displayName": "vscode-evm-package",
+  "description": "ethereum and solidity multi-pkg ",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.48.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "solidity",
+        "path": "./snippets/snippets.code-snippets"
+      }
+    ]
+  }
+}
