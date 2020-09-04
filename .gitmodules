@@ -1,0 +1,21 @@
+[submodule "vscode-LLL"]
+	path = vscode-LLL
+	url = https://github.com/tintinweb/vscode-LLL.git
+[submodule "vscode-vyper"]
+	path = vscode-vyper
+	url = https://github.com/tintinweb/vscode-vyper
+[submodule "vscode-solidity-flattener"]
+	path = vscode-solidity-flattener
+	url = https://github.com/tintinweb/vscode-solidity-flattener
+[submodule "vscode-interactive-graphviz"]
+	path = vscode-interactive-graphviz
+	url = https://github.com/tintinweb/vscode-interactive-graphviz
+[submodule "vscode-ethereum-security-bundle"]
+	path = vscode-ethereum-security-bundle
+	url = https://github.com/tintinweb/vscode-ethereum-security-bundle
+[submodule "vscode-decompiler"]
+	path = vscode-decompiler
+	url = https://github.com/tintinweb/vscode-decompiler
+[submodule "ethereum-input-decoder"]
+	path = ethereum-input-decoder
+	url = https://github.com/tintinweb/ethereum-input-decoder.git
